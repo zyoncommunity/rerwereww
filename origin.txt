@@ -1,0 +1,36 @@
+Uri: https://hasteb.in/
+File Name: c:\Downloaded Web Sites\hasteb.in\index.html
+Content Type: text/html
+
+Uri: https://hasteb.in/styles/atom-one-dark.css
+File Name: c:\Downloaded Web Sites\hasteb.in\styles\atom-one-dark.css
+Content Type: text/css
+
+Uri: https://hasteb.in/application.css
+File Name: c:\Downloaded Web Sites\hasteb.in\application.css
+Content Type: text/css
+
+Uri: https://hasteb.in/jquery.min.js
+File Name: c:\Downloaded Web Sites\hasteb.in\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hasteb.in/highlight.pack.min.js
+File Name: c:\Downloaded Web Sites\hasteb.in\highlight.pack.min.js
+Content Type: application/javascript
+
+Uri: https://hasteb.in/application.min.js
+File Name: c:\Downloaded Web Sites\hasteb.in\application.min.js
+Content Type: application/javascript
+
+Uri: https://hasteb.in/logo.png
+File Name: c:\Downloaded Web Sites\hasteb.in\logo.png
+Content Type: image/png
+
+Uri: https://hasteb.in/function-icons.png
+File Name: c:\Downloaded Web Sites\hasteb.in\function-icons.png
+Content Type: image/png
+
+Uri: https://hasteb.in/hover-dropdown-tip.png
+File Name: c:\Downloaded Web Sites\hasteb.in\hover-dropdown-tip.png
+Content Type: image/png
+
